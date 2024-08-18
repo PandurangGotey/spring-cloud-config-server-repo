@@ -1,5 +1,5 @@
 my:
-  ervice:
+  service:
     name: CONFIG-CLIENT
 user:
   role: Client Role
