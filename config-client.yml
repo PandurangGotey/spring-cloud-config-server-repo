@@ -1,6 +1,6 @@
 user:
-  role: Client Role
+  role: Role
 
 feature-toggles:
-    credit-check: false
-    fraud-check: false
+    credit-check: true
+    fraud-check: true

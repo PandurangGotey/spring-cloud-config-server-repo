@@ -1,0 +1,6 @@
+user:
+  role: Default Role
+
+feature-toggles:
+    credit-check: false
+    fraud-check: false
