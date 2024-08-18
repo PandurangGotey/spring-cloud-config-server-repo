@@ -1,0 +1,5 @@
+user:
+  role: Stage Role
+
+feature-toggles:
+    fraud-check: true

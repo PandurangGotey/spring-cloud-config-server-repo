@@ -1,5 +1,6 @@
-my:
-  service:
-    name: CONFIG-CLIENT
 user:
   role: Client Role
+
+feature-toggles:
+    credit-check: false
+    fraud-check: false

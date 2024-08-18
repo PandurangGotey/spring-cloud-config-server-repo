@@ -1,0 +1,6 @@
+
+user:
+  role: Dev Role
+
+  feature-toggles:
+    credit-check: true
